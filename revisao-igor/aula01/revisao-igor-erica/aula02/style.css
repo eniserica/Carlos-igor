@@ -1,0 +1,28 @@
+body{
+    margin: 20px;
+}
+
+h1{
+    text-align: center;
+}
+
+.area-input{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+input{
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+button{
+    padding: 10px 20px;
+    background-color: rgb(30, 94, 78);
+    color:aliceblue;
+    border: none;
+    border-radius: 5px ;
+    margin-left: 10px;
+}
