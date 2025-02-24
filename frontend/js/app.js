@@ -65,7 +65,7 @@ const listItems = async ()=>{
             return
         }
         const items = await res.json();
-        console.log(items);
+        // console.log(items);
         showItems(items) // recebe os array de items 
     }catch (error){
         console.log(error);
